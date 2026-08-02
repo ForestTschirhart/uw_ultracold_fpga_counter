@@ -1,2 +1,10 @@
-impl/
+# Gowin build output ? fully regenerated from src/
+impl/*
+!impl/pnr/
+impl/pnr/*
+!impl/pnr/multi_cycle_path.tr.html
+!impl/pnr/multi_cycle_path_tr_cata.html
+!impl/pnr/multi_cycle_path_tr_content.html
+
+# Per-user IDE state
 *.gprj.user
